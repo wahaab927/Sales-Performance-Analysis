@@ -326,11 +326,3 @@ This project reflects:
 * Dedication to learning and building real-world solutions
 
 > *"Transforming raw data into meaningful business insights is not just technical skill — it is a mindset. This project represents that mindset."*
-
-
-Just say which one you want:
-**1) requirements.txt**  
-**2) Resume bullets**  
-**3) Banner + description**  
-**4) All of them**
-```
