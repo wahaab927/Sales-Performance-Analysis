@@ -1,0 +1,19 @@
+A retail company wants to understand how its sales are performing across different products,
+regions, and time periods. The management team needs clear insights to identify top-performing products,
+low-performing regions, and overall sales trends.
+
+
+
+As a Data Analyst, your task is to analyze the sales dataset, clean
+and explore the data, generate meaningful visualizations, and summarize key business insights.
+The goal is to help the company make better decisions related to inventory, marketing, and sales strategy.
+
+This project focuses on:
+
+1.Analyzing total sales over time
+
+2.Finding top-selling products and regions
+
+3.Identifying sales trends and patterns
+
+4.Creating simple visualizations for business understanding
